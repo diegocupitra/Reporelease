@@ -1,0 +1,7 @@
+README.md
+setup.py
+Reporelease/__init__.py
+Reporelease.egg-info/PKG-INFO
+Reporelease.egg-info/SOURCES.txt
+Reporelease.egg-info/dependency_links.txt
+Reporelease.egg-info/top_level.txt
